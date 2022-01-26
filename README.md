@@ -1,5 +1,9 @@
 
-<span style="font-size: 20px; font-weight:bolder; text-align:center;">&#9889; Hello, World! &#9889;</span>
+<span style="font-size:20px; font-weight:bolder; text-align:center;">
+  <p>&#9889;</p> 
+  <p> Hello, World!</p>
+  <p>&#9889;</p>
+</span>
 
 <hr />
 

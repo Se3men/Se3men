@@ -18,11 +18,11 @@
   <a href="#">
     <img width=50 height=50 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   </a>
-  <a href="#">
-    <img width=50 height=50 src="https://github.com/vladimirChugunov/vladimirChugunov/raw/main/img/icons8-postgresql-48.png">
+    <a href="#">
+    <img width=50 height=50 src="https://camo.githubusercontent.com/d3d1874579d4c426185cc3f0b5819d05cad0e3cb0d62ce2b182daea2abab84b3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656475782e706e67">
   </a>
   <a href="#">
-    <img width=50 height=50 src="https://camo.githubusercontent.com/d3d1874579d4c426185cc3f0b5819d05cad0e3cb0d62ce2b182daea2abab84b3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656475782e706e67">
+    <img width=50 height=50 src="https://github.com/vladimirChugunov/vladimirChugunov/raw/main/img/icons8-postgresql-48.png">
   </a>
   <a href="#">
     <img width=50 height=50 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
@@ -45,9 +45,9 @@
 
 <p>
   <p><strong>Frontend:</strong> JavaScript, React, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Bootstrap</p>
-  <p>Backend: NodeJS, Express, Sessions, JWT, Handlebars, Postman</p>
-  <p>DB: PostgreSQL, Sequelize ORM</p>
-  <p>Other: Git, GitHub, VS Code</p>
+  <p><strong>Backend:</strong> NodeJS, Express, Sessions, JWT, Handlebars, Postman</p>
+  <p><strong>DB:</strong> PostgreSQL, Sequelize ORM</p>
+  <p><strong>Other:</strong> Git, GitHub, VS Code</p>
 </p>
 
 <h2 align=center>&#128241; Contacts: &#128241;</h2>
@@ -66,4 +66,4 @@
 
 <h2 align=center>&#128202; GitHub statistics: &#128202;</h2>
 
-<p align=center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se3men&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</p>
+<span align=center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se3men&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span>

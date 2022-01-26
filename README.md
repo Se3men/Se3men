@@ -40,8 +40,11 @@
     <img width=50 height=50 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
   </a>
 </p>
+
+<br />
+
 <p>
-  <p>Frontend: JavaScript, React, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Bootstrap</p>
+  <p><strong>Frontend:</strong> JavaScript, React, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Bootstrap</p>
   <p>Backend: NodeJS, Express, Sessions, JWT, Handlebars, Postman</p>
   <p>DB: PostgreSQL, Sequelize ORM</p>
   <p>Other: Git, GitHub, VS Code</p>
@@ -63,4 +66,4 @@
 
 <h2 align=center>&#128202; GitHub statistics: &#128202;</h2>
 
-<p align=center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se3men&show_icons=true&theme=synthwave)]</p>
+<p align=center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se3men&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</p>

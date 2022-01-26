@@ -4,9 +4,9 @@
 
 <p align=center>
   <p>&#128187; Coding</p>
-  <p>&#127947; Gym</p>
   <p>&#127928; Music</p>
   <p>&#128049; Cats</p>
+  <p>&#127947; Gym</p>
 </p>
 
 <h2 align=center>&#128295; Technology stack: &#128295;</h2>
@@ -66,4 +66,4 @@
 
 <h2 align=center>&#128202; GitHub statistics: &#128202;</h2>
 
-<p align=center><span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se3men&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span></p>
+<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se3men&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span>

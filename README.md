@@ -66,4 +66,4 @@
 
 <h2 align=center>&#128202; GitHub statistics: &#128202;</h2>
 
-<span align=center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se3men&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span>
+<p align=center><span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se3men&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span></p>

@@ -1,9 +1,9 @@
 
-<span style="font-size: 20px; font-weight: bolder;">&#9889; Hello, World! &#9889;</span>
+<span style="font-size: 20px; font-weight: bolder; align-items: center;">&#9889; Hello, World! &#9889;</span>
 
 <hr />
 
-<span style="font-size: 16px; font-weight: bolder;">&#128153; I like: &#128153;</span>
+<span style="font-size: 16px; font-weight: bolder; align-items: center;">&#128153; I like: &#128153;</span>
 
 <hr />
 
@@ -14,7 +14,7 @@
   <li>&#128049; Cats &#128049;</li>
 </ul>
 
-<span style="font-size: 16px; font-weight: bolder;">&#128295; Technology stack: &#128295;</span>
+<span style="font-size: 16px; font-weight: bolder; align-items: center;">&#128295; Technology stack: &#128295;</span>
 
 <hr />
 
@@ -52,7 +52,7 @@
 
 <hr />
 
-<span style="font-size: 16px; font-weight: bolder;">&#128241; Contacts: &#128241;</span>
+<span style="font-size: 16px; font-weight: bolder; align-items: center;">&#128241; Contacts: &#128241;</span>
 
 <hr />
 
@@ -70,7 +70,7 @@
     </td>
     <td>
       <a href="mailto:semyonsergeev.dev@gmail.com">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.logodownload.org%2Fgmail-logo%2F&psig=AOvVaw0FCwf_QzZsT_ZP2qjV2utl&ust=1643294186082000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODfw4XSz_UCFQAAAAAdAAAAABAD">
+        <img src="https://w7.pngwing.com/pngs/928/935/png-transparent-triangle-text-brand-communication-gmail-gmail-logo-angle-text-rectangle.png">
       </a>
     </td>
   </tr>
@@ -78,7 +78,7 @@
 
 <hr />
 
-<span style="font-size: 16px; font-weight: bolder;">&#128241; GitHub statistics: &#128241;</span>
+<span style="font-size: 16px; font-weight: bolder; align-items: center;">&#128241; GitHub statistics: &#128241;</span>
 
-<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se3men&show_icons=true&tokyonight)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se3men&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span>
 

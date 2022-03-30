@@ -28,12 +28,6 @@
     <img width=50 height=50 src="https://github.com/vladimirChugunov/vladimirChugunov/raw/main/img/icons8-postgresql-48.png">
   </a>
   <a href="#">
-    <img width=50 height=50 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  </a>
-  <a href="#">
-    <img width=50 height=50 src="https://camo.githubusercontent.com/267b0efda4856469175e5db69864f38fd0a277d603110049b3c8b5667f15a3b2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722d676c6173732f34382f3030303030302f73716c2e706e67">
-  </a>
-  <a href="#">
     <img width=50 height=50 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
   </a>
   <a href="#">

@@ -47,7 +47,7 @@
   <p><strong>Frontend:</strong> JavaScript, Typescript, React, Redux, MobX, Redux-Saga, HTML, CSS, Bootstrap</p>
   <p><strong>Backend:</strong> NodeJS, Express, Nest</p>
   <p><strong>DB:</strong> PostgreSQL, Sequelize ORM, MongoDB</p>
-  <p><strong>Other:</strong>GitHub, VS Code</p>
+  <p><strong>Other:</strong> GitHub, VS Code</p>
 </p>
 
 <h2 align=center>&#128241; Contacts: &#128241;</h2>

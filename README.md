@@ -42,6 +42,9 @@
   <a href="#">
     <img width=50 height=50 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
   </a>
+  <a href="#">
+    <img width=50 height=50 src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.IzZqdsWtWHs8NRRx_Vfy2HB5PMKb6Z-UcCq0fVg7-Xc">
+  </a>
 </p>
 
 <br />

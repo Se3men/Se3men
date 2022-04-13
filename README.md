@@ -46,7 +46,7 @@
 <p>
   <p><strong>Frontend:</strong> JavaScript, Typescript, React, Redux, MobX, Redux-Saga, HTML, CSS, Bootstrap</p>
   <p><strong>Backend:</strong> NodeJS, Express, Nest</p>
-  <p><strong>DB:</strong> PostgreSQL, Sequelize ORM, MongoDB</p>
+  <p><strong>DB:</strong> PostgreSQL, Sequelize ORM, MongoDB, Strapi</p>
   <p><strong>Other:</strong> GitHub, VS Code</p>
 </p>
 

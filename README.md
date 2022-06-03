@@ -1,14 +1,5 @@
 <h1 align=center>&#9889; Hello, World! &#9889;<h1>
 
-<h2 align=center>&#128153; I like: &#128153;</h2>
-
-<p align=center>
-  <p>&#128187; Coding</p>
-  <p>&#127928; Music</p>
-  <p>&#128049; Cats</p>
-  <p>&#127947; Gym</p>
-</p>
-
 <h2 align=center>&#128295; Technology stack: &#128295;</h2>
 
 <p align=center>
@@ -44,10 +35,10 @@
 <br />
 
 <p>
-  <p><strong>Frontend:</strong> JavaScript, Typescript, React, Redux, MobX, Redux-Saga, HTML, CSS, Bootstrap</p>
+  <p><strong>Frontend:</strong> JavaScript, Typescript, React, Redux, Saga, HTML, CSS</p>
   <p><strong>Backend:</strong> NodeJS, Express, Nest</p>
-  <p><strong>DB:</strong> PostgreSQL, Sequelize ORM, MongoDB, Strapi</p>
-  <p><strong>Other:</strong> GitHub, VS Code</p>
+  <p><strong>DB:</strong> PostgreSQL, Strapi</p>
+  <p><strong>Other:</strong> Docker</p>
 </p>
 
 <h2 align=center>&#128241; Contacts: &#128241;</h2>
